@@ -1,4 +1,4 @@
-# Recommendation Systems Course | Summer 2022 
+# Computer Vision Course | Summer 2022 
 
 ***
  
@@ -11,7 +11,7 @@
 
 ***
 
-| [Home](index.md)  | [Lectures](lectures.md)    | [About me](karthik.md) |
+| [Home](index.md)  | [Lectures](lectures.md) | [References] (referenecs.md)   | [About me](karthik.md) |
 
 
 ### Work Experience 

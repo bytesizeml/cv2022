@@ -13,7 +13,7 @@
 ***
 
 
-| [Home](index.md)  | [Lectures](lectures.md)    | [About me](karthik.md) |
+| [Home](index.md)  | [Lectures](lectures.md)    | [References] (referenecs.md) | [About me](karthik.md) |
 
 
 ***
@@ -46,6 +46,7 @@ Lectures go from September - December 2022
 
 1. Conceptual Assignments
 1. Programming Assignments
+1. In-class Exercise
 1. Final project (open ended)
 
 

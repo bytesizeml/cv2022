@@ -1,4 +1,4 @@
-# Recommendation Systems Course | Summer 2022 
+# Computer Vision Course | Summer 2022 
 
 ***
  
@@ -11,7 +11,7 @@
 
 ***
 
-| [Home](index.md)  | [Lectures](lectures.md)   | [About me](karthik.md) |
+| [Home](index.md)  | [Lectures](lectures.md)  | [References] (referenecs.md)  | [About me](karthik.md) |
 
 
 ***
@@ -24,8 +24,8 @@
 | Lecture | Lecture Topic | Annotated Lecture |
 | :--- | :----: | :---: |
 | 1 | Introduction | [Lecture 1](Lectures/Lecture_1_annotated.pdf) |
-| 1 | SVD and Image Compression | [Lecture 2](Lectures/Lecture_2_annotated.pdf) |
-| 1 | SVD, Eigen Faces and Convolutions | [Lecture 3](Lectures/Lecture_3_annotated.pdf) |
+| 2 | SVD and Image Compression | [Lecture 2](Lectures/Lecture_2_annotated.pdf) |
+| 3 | SVD, Eigen Faces and Convolutions | [Lecture 3](Lectures/Lecture_3_annotated.pdf) |
 
 
 
