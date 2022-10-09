@@ -39,6 +39,18 @@ Lectures go from September - December 2022
 1. Search Ranking: Learning to rank, Ranking Loss, Ranking metrics
 1. Neural models for Search Ranking
 
+ 
+1 & Motivation and applications of CV 
+2 & Transforms, Convolutions and feature extraction 
+3 & Machine Learning for CV 
+4 & Machine Learning for CV 
+5 & Neural Networks \& CNN 
+6 & Pytorch Tutorial and libraries 
+7 & Object detection and instance segmentation 
+8 & Deep Learning applications in CV 
+9 & Image to Text and Text to Image 
+10 & More Deep Learning applications in CV 
+
 
 ### Course Assesments
 
