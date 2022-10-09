@@ -2,7 +2,7 @@
 
 ***
  
-## Professional Masters Program | University of Washinton, Seattle 
+## Professional Masters Program | University of Washington, Seattle 
 
 ***
 
