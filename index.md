@@ -13,7 +13,7 @@
 ***
 
 
-| [Home](index.md)  | [Lectures](lectures.md)    | [References] (referenecs.md) | [About me](karthik.md) |
+| [Home](index.md)  | [Lectures](lectures.md)    | [References] (references.md) | [About me](karthik.md) |
 
 
 ***
