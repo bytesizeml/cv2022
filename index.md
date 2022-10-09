@@ -32,7 +32,7 @@ Lectures go from September - December 2022
 1. Transforms, Convolutions and feature extraction 
 1. Machine Learning for CV 
 1. Machine Learning for CV 
-1. Neural Networks \& CNN 
+1. Neural Networks & CNN 
 1. Pytorch Tutorial and libraries 
 1. Object detection and instance segmentation 
 1. Deep Learning applications in CV 
