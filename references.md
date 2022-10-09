@@ -1,8 +1,8 @@
-# Computer Vision Course | Summer 2022 
+# Computer Vision Course | Autumn 2022 
 
 ***
  
-## Professional Masters Program | University of Washinton, Seattle 
+## Professional Masters Program | University of Washington, Seattle 
 
 ***
 

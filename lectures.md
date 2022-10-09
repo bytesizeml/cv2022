@@ -1,4 +1,4 @@
-# Computer Vision Course | Summer 2022 
+# Computer Vision Course | Autumn 2022 
 
 ***
  
