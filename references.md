@@ -24,7 +24,9 @@
 1. [Convolution Playground](https://generic-github-user.github.io/Image-Convolution-Playground/src/)
 1. [Wikipedia on Convolutions](https://en.wikipedia.org/wiki/Kernel_(image_processing))
 
-### Machine Learning
+### Total Variation
+1. [Anisotropic and Isotropic TV](https://www.math.uci.edu/~jxin/cam14-69.pdf)
+1. [Discrete TV](https://hal.archives-ouvertes.fr/hal-01309685v3/document)
 
 
 ### Deep Learning
