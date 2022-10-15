@@ -7,7 +7,7 @@
 ***
 
 
-### Instructor - [Dr. Karthik Mohan](https://www.ece.uw.edu/people/karthik-mohan/)
+#### Instructor - [Dr. Karthik Mohan](https://www.ece.uw.edu/people/karthik-mohan/)
 
 ***
 
