@@ -8,6 +8,7 @@
 
 
 #### Instructor - [Dr. Karthik Mohan](https://www.ece.uw.edu/people/karthik-mohan/)
+#### TA - [Ayush Singh](https://www.linkedin.com/in/ayush-singh-se/)
 
 ***
 
