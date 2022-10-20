@@ -29,6 +29,7 @@
 | 3 | SVD, Eigen Faces and Convolutions | [Lecture 3](Lectures/Lecture_3_annotated.pdf) | [Video 3](https://www.youtube.com/watch?v=RJRYq3_rVSo&t=1s) |
 | 4 | kMeans, kMeans++, tSNE | [Lecture 4](Lectures/Lecture_4_annotated.pdf) | [Video 4](https://youtu.be/vk5sPgXzrs0&t=1s) |
 | 5 | Computational Complexity and Total Variation | [Lecture 5a](Lectures/Lecture_5_annotated_part_1.pdf) [Lecture 5b](Lectures/Lecture_5_annotated_part_2.pdf) | [Video 5](https://youtu.be/ojlJcKO_eM4&t=1s) |
+| 6 | Binary Classification | [Lecture 6](Lectures/Lecture_6_annotated.pdf) | [Video 6](https://youtu.be/d5GHZdktrls&t=1s) |
 
 
 
