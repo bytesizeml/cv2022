@@ -31,7 +31,7 @@
 | 5 | Computational Complexity and Total Variation | [Lecture 5a](Lectures/Lecture_5_annotated_part_1.pdf) [Lecture 5b](Lectures/Lecture_5_annotated_part_2.pdf) | [Video 5](https://youtu.be/ojlJcKO_eM4&t=1s) |
 | 6 | Binary Classification | [Lecture 6](Lectures/Lecture_6_annotated.pdf) | [Video 6](https://youtu.be/d5GHZdktrls&t=1s) |
 | 7 | Classification Metrics and Overfitting | [Lecture 7](Lectures/Lecture_7_annotated.pdf) |  |
-
+| 8 | Introduction to Deep Learning | [Lecture 8](Lectures/Lecture_8_annotated.pdf) |  |
 
 
 ### Guest Lectures
