@@ -33,6 +33,7 @@
 | 7 | Classification Metrics and Overfitting | [Lecture 7](Lectures/Lecture_7_annotated.pdf) |  |
 | 8 | Introduction to Deep Learning | [Lecture 8](Lectures/Lecture_8_annotated.pdf) |  |
 | 9 | Backprop, SGD and Overfitting | [Lecture 9](Lectures/Lecture_9_annotated.pdf) |  |
+| 10 | Convolutional Neural Networks | [Lecture 10](Lectures/Lecture_10_annotated.pdf) |  |
 
 
 ### Guest Lectures
