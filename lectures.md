@@ -34,6 +34,7 @@
 | 8 | Introduction to Deep Learning | [Lecture 8](Lectures/Lecture_8_annotated.pdf) |  |
 | 9 | Backprop, SGD and Overfitting | [Lecture 9](Lectures/Lecture_9_annotated.pdf) |  |
 | 10 | Convolutional Neural Networks | [Lecture 10](Lectures/Lecture_10_annotated.pdf) |  |
+| 11 | CNN Architectures | [Lecture 11](Lectures/Lecture_11_annotated.pdf) |  |
 
 
 ### Guest Lectures
