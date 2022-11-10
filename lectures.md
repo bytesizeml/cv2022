@@ -35,6 +35,7 @@
 | 9 | Backprop, SGD and Overfitting | [Lecture 9](Lectures/Lecture_9_annotated.pdf) |  |
 | 10 | Convolutional Neural Networks | [Lecture 10](Lectures/Lecture_10_annotated.pdf) |  |
 | 11 | CNN Architectures | [Lecture 11](Lectures/Lecture_11_annotated.pdf) |  |
+| 12 | ResNet | [Lecture 12](Lectures/Lecture_12_annotated.pdf) |  |
 
 
 ### Guest Lectures
