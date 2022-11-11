@@ -36,7 +36,7 @@
 | 10 | Convolutional Neural Networks | [Lecture 10](Lectures/Lecture_10_annotated.pdf) |  |
 | 11 | CNN Architectures | [Lecture 11](Lectures/Lecture_11_annotated.pdf) |  |
 | 12 | ResNet | [Lecture 12](Lectures/Lecture_12_annotated.pdf) |  |
-| 13 | Transfer Learning | [Lecture 13](Lectures/Lecture_13_annotated.pdf) |  |
+| 13 | Transfer Learning | [Lecture 13](Lectures/Lecture_13_annotated.pdf) [Lecture 13 Notebook](Lectures/Lecture_13_notebook.ipynb) |  |
 
 
 ### Guest Lectures
