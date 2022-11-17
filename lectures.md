@@ -38,7 +38,7 @@
 | 12 | ResNet | [Lecture 12](Lectures/Lecture_12_annotated.pdf) |  |
 | 13 | Transfer Learning | [Lecture 13](Lectures/Lecture_13_annotated.pdf) | | 
 |   |  | [Lecture 13 Notebook](Lectures/Lecture_13_notebook.ipynb) |  |
-
+| 14 | Object Detection | [Lecture 14](Lectures/Lecture_14_annotated.pdf) | |
 
 ### Guest Lectures
 
