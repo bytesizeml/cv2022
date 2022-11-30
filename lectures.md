@@ -40,6 +40,7 @@
 |   |  | [Lecture 13 Notebook](Lectures/Lecture_13_notebook.ipynb) |  |
 | 14 | Object Detection | [Lecture 14](Lectures/Lecture_14_annotated.pdf) | |
 | 15 | YOLO for Object Detection | [Lecture 15](Lectures/Lecture_15_annotated.pdf) | |
+| 16 | Image Captioning Models | [Lecture 16](Lectures/Lecture_16_annotated.pdf) | |
 
 ### Guest Lectures
 
