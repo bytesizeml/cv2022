@@ -41,6 +41,7 @@
 | 14 | Object Detection | [Lecture 14](Lectures/Lecture_14_annotated.pdf) | |
 | 15 | YOLO for Object Detection | [Lecture 15](Lectures/Lecture_15_annotated.pdf) | |
 | 16 | Image Captioning Models | [Lecture 16](Lectures/Lecture_16_annotated.pdf) | |
+| 17 | Image Captioning and StyleNet | [Lecture 17](Lectures/Lecture_17_annotated.pdf) | |
 
 ### Guest Lectures
 
