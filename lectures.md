@@ -42,6 +42,7 @@
 | 15 | YOLO for Object Detection | [Lecture 15](Lectures/Lecture_15_annotated.pdf) | |
 | 16 | Image Captioning Models | [Lecture 16](Lectures/Lecture_16_annotated.pdf) | |
 | 17 | Image Captioning and StyleNet | [Lecture 17](Lectures/Lecture_17_annotated.pdf) | |
+| 18 | Generative AI: GPT-3 and ChatGPT | [Lecture 18](Lectures/Lecture_18_annotated.pdf) | |
 
 ### Guest Lectures
 
